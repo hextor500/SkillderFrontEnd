@@ -4,7 +4,7 @@ import About from '../pages/About';
 import Login from '../pages/Login';
 import LoginUsers from '../pages/LoginUsers';
 import LoginCompany from '../pages/LoginCompany';
-import SignUp from '../pages/Signup';
+import SignUp from '../pages/SignUp';
 import SignUpUsers from '../pages/SignUpUsers';
 import SignUpCompany from '../pages/SignUpCompany';
 import Users from '../pages/Users';
